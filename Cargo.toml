@@ -1,0 +1,9 @@
+[profile.release]
+debug = true
+
+[workspace]
+members = [
+  "components/builder-protocol",
+  "components/eventsrv-protocol",
+  "components/launcher-protocol"
+]
