@@ -1,7 +1,0 @@
-[profile.release]
-debug = true
-
-[workspace]
-members = [
-  "components/eventsrv-protocol"
-]
